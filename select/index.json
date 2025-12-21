@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "死ぬとき死ねばいい",
+  "base_artist": "カンザキイオリ",
+  "createdAt": "2025-12-21T15:56:26.165976Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "死ぬとき死ねばいい",
+      "artist": "Kanzaki Iori",
+      "has_synced": true,
+      "path": "select/01_死ぬとき死ねばいい_Kanzaki_Iori.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "死ぬとき死ねばいい",
+      "artist": "Iori Kanzaki",
+      "has_synced": true,
+      "path": "select/02_死ぬとき死ねばいい_Iori_Kanzaki.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "死ぬとき死ねばいい",
+      "artist": "カンザキイオリ",
+      "has_synced": false,
+      "path": "select/pl_01_死ぬとき死ねばいい_カンザキイオリ.txt"
+    }
+  ]
+}
